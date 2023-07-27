@@ -1,1 +1,1 @@
-# django_go
+# Neural Style Transfer
