@@ -35,6 +35,40 @@ The ‘encoding nature’ of CNN’s is the key in Neural Style Transfer. Firstl
 
 
 In simple words,we optimize our NST models to reduce the 'content loss' and the 'style loss'. The content loss function ensures that the activations of the higher layers are similar between the content image and the generated image. The style loss function makes sure that the correlation of activations in all the layers are similar between the style image and the generated image.
+## 🖼🖌 Some of the art we created in this project
+
+<div align="center">
+  <img src="/imgs/pic 1.jpg" width="35%"/>
+<img src="/imgs/style 1.jpg" width="35%"/>
+<img src="/imgs/product 1.jpg" width="35%"/>
+</div>
+
+<div align="center">
+<img src="/imgs/pic2.jpg" width="35%"/>
+<img src="/imgs/style2.jpg" width="35%"/>
+<img src="/imgs/product 2.jpg" width="35%"/>
+</div>
+
+<div align="center">
+<img src="/imgs/pic4.jpg" width="35%"/>
+<img src="/imgs/style4.jpg" width="35%"/>
+<img src="/imgs/product4.jpg" width="35%"/>
+</div>
+
+<div align="center">
+<img src="/imgs/pic5.jpg" width="35%"/>
+<img src="/imgs/style5.jpg" width="35%"/>
+<img src="/imgs/product5.jpg" width="35%"/>
+</div>
+
+
+<div align="center">
+<img src="/imgs/pic3.jpg" width="35%"/>
+<img src="/imgs/style3.jpg" width="35%"/>
+<img src="/imgs/product3.jpg" width="35%"/>
+<img src="/imgs/product3.3.jpg" width="35%"/>
+</div>
+
 
 
 
